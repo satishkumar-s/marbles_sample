@@ -2,7 +2,7 @@
   "credentials": {
     "peers": [
       {
-        "discovery_host": "f8f9250c0c38436fae4941bd3c528536-vp1.us.blockchain.ibm.com:444",
+        "discovery_host": "f8f9250c0c38436fae4941bd3c528536-vp1.us.blockchain.ibm.com:443",
         "discovery_port": 30304,
         "api_host": "f8f9250c0c38436fae4941bd3c528536-vp1.us.blockchain.ibm.com",
         "api_port_tls": 444,
